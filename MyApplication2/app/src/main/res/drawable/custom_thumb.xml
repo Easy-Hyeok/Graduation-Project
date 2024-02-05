@@ -1,0 +1,6 @@
+<!-- custom_thumb.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#000000" /> <!-- 핸들의 색상 -->
+    <size android:width="28dp" android:height="28dp" /> <!-- 핸들의 크기 -->
+    <corners android:radius="14dp" /> <!-- 핸들의 모서리를 둥글게 설정 -->
+</shape>
